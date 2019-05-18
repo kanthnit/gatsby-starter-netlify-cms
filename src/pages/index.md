@@ -1,50 +1,61 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/accounting-bankbook-business-921783.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: P S & Associates
+image: /img/accounting-blur-budget-128867_c.jpg
+heading: Our Services
+subheading: >-
+  Providing Financial Services for over 15 years in the fileds of Taxation,
+  Audit & Assurance and Consultation.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: About Us
+  description: >-
+    P S & Associates(aka P.Sreenivasulu & Associates) is an audit firm started
+    by CA P Sreenivasulu (Partner) in Sep '2008, to provide and deliver best
+    practices to the clients in the areas of GST, Company Law, Audit and other
+    consulting services and at the same time upholding integrity, credibility
+    and transparency.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Audit and Assurance, Direct & Indirect Taxation, Company Law Matters,
+  Accounting Services are some of the services we provide. are
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: |-
+        Audit and Assurance
+        We offer services in:
+        Statutory Audit
+        Internal Audit
+        Tax Audit
+        GST Audit
+        Information Systems Audit
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Direct & Indirect Taxation
+
+        Recognizing the client requirement to tackle a plethora of Indirect Tax
+        Legislation which impacts every conceivable nature of business
+        transaction be it manufacture, trading , rendering of services, imports,
+        exports
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        Corporate Law 
+
+        Ensuring that you can concentrate on growing your business in an upward
+        direction is very important to us. Handing over matters of corporate law
+        and secretarial practice to us, can give your Board of Directors space
+        to concentrate on their shareholder duties and focus on higher levels of
+        operations.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: |-
+        ACCOUNTING SERVICES
+        Accounting System Design & Implementation
+        Financial Accounting
+        Budgeting
+        Financial Reporting
+        MIS Reports
+        Financial Analysis
+        Asset Accounting Management
+        Depreciation and Amortization Schedules
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
